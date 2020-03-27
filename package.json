@@ -1,0 +1,11 @@
+{
+    "name": "2020",
+    "version": "0.0.1",
+    "description": "Information to see our reality with clarity.",
+    "scripts": {
+        "start": "vuepress dev",
+        "build": "vuepress build"
+    },
+    "author": "Arsala Bangash",
+    "license": "MIT"
+}
